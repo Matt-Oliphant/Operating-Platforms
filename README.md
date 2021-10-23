@@ -1,4 +1,4 @@
-# Operating-Platforms
+# Operating-Platforms: Course Reflection
 
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The Gaming Room is a successful gaming company that had a hit game, Draw It or Lose It, designed for the Android environment. However, they wanted to outsource the development of thier web-based presence to our consultant firm. The Gaming Room wanted us to adapt the game to a web-environment in order to be able to connect to any client that uses any of the most popular operating system: Windows, MacOS, Linux, Android, and iOS. 
