@@ -14,7 +14,7 @@
 
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
 
-* If I could choose one part of these documents to revise I think it would be the evaluation section of the design template. It's not that I'm aware of any falsities within it, but I think more exposure to system's architecture would help me consider aspects that I cannot currently. Further, this section covers a lot of ground that would take a long time to master, so experience with additional operating platforms would allow me to better evaluate the development requirements.
+* If I could choose one part of these documents to revise, it would be the evaluation section of the design template. It's not that I'm aware of any falsities within it, but I think more exposure to system's architecture would help me consider aspects that I cannot currently. Further, this section covers a lot of ground that would take a long time to master, so experience with additional operating platforms would allow me to better evaluate the development requirements.
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
 
